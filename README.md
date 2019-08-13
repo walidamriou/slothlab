@@ -1,4 +1,4 @@
-# slothlab
+# Slothlab
 SlothLab is Desktop application for converting between font format. 
 #### __Notes:__ 
 * it is developing by NodeJS and electron from atom.
