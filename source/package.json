@@ -1,0 +1,22 @@
+{
+  "name": "slothlab",
+  "version": "1.0.0",
+  "description": "SlothLab is Desktop application for converting between font formats",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walidamriou/slothlab.git"
+  },
+  "author": "Walid Amriou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walidamriou/slothlab/issues"
+  },
+  "homepage": "https://github.com/walidamriou/slothlab#readme",
+  "dependencies": {
+    "woff2": "^0.2.2"
+  }
+}
