@@ -1,11 +1,11 @@
 {
   "name": "slothlab",
   "version": "1.0.0",
-  "description": "SlothLab is Desktop application for converting between font formats",
+  "description": "SlothLab is a desktop app to converting between font formats",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node main.js"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/walidamriou/slothlab#readme",
   "dependencies": {
-    "woff2": "^0.2.2"
+    "electron": "^9.0.5"
   }
 }
